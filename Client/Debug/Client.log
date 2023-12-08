@@ -1,0 +1,4 @@
+﻿  AppClient.cpp
+C:\Users\igrok\Desktop\практика архитектура\Arch\Client\AppClient.cpp(1,1): warning C4005: _CRT_SECURE_NO_WARNINGS: изменение макроопределения
+C:\Users\igrok\Desktop\практика архитектура\Arch\Client\AppClient.cpp(1,1): message : "_CRT_SECURE_NO_WARNINGS" ранее объявлен в командной строке
+  Client.vcxproj -> C:\Users\igrok\Desktop\практика архитектура\Arch\Debug\Client.exe

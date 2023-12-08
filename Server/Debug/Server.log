@@ -1,0 +1,3 @@
+﻿  AppServer.cpp
+C:\Users\igrok\Desktop\практика архитектура\Arch\Server\AppServer.cpp(63,26): warning C4244: инициализация: преобразование "uintmax_t" в "int", возможна потеря данных
+  Server.vcxproj -> C:\Users\igrok\Desktop\практика архитектура\Arch\Debug\Server.exe
